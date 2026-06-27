@@ -1,4 +1,4 @@
-# Hardware-Printer Not Working - Troubleshooting Guide
+# Printer Not Working - Troubleshooting Guide
 
 ## Problem
 Printer does not print or is unresponsive.
