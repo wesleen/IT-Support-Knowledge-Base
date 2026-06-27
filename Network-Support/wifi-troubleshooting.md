@@ -1,18 +1,30 @@
-# Wi-Fi Troubleshooting Guide
+# WiFi Not Connecting - Troubleshooting Guide
 
-## Common Issues
-- Cannot connect to Wi-Fi
-- Slow internet connection
-- Frequent disconnections
+## Problem
+Device cannot connect to WiFi or keeps disconnecting.
+
+## Possible Causes
+- Incorrect password
+- Router issues
+- Network adapter disabled
+- Weak signal
+- Driver issues
 
 ## Troubleshooting Steps
+1. Restart router and device
+2. Forget WiFi network and reconnect
+3. Check if WiFi is enabled on device
+4. Move closer to router
+5. Restart network adapter
 
-1. Check if Wi-Fi is enabled.
-2. Restart the router.
-3. Restart the device.
-4. Forget and reconnect to the network.
-5. Check network settings.
-6. Escalate if the issue continues.
+## Advanced Fixes
+- Update network drivers
+- Run Windows Network Troubleshooter
+- Reset network settings
 
-## Support Notes
-Record the problem, diagnosis, and solution.
+## Resolution
+Most issues are resolved by restarting router or resetting network settings.
+
+## Prevention
+- Keep router firmware updated
+- Avoid too many connected devices
