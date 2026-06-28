@@ -1,0 +1,83 @@
+# Email Troubleshooting Guide
+
+## Issue: Unable to Send or Receive Emails
+
+### Possible Causes
+- Incorrect internet connection
+- Email account password issue
+- Incorrect email server settings
+- Full mailbox storage
+- Email application not syncing
+
+### Troubleshooting Steps
+
+1. Check Internet Connection
+- Confirm the device is connected to the internet.
+- Try opening a website to verify connectivity.
+
+2. Check Email Account Status
+- Confirm the email address is correct.
+- Check if the account has been locked or disabled.
+- Verify that the password is correct.
+
+3. Restart Email Application
+- Close and reopen the email application.
+- Restart the computer if the issue continues.
+
+4. Check Mailbox Storage
+- Delete unnecessary emails.
+- Empty the Deleted Items and Junk folders.
+
+5. Verify Email Settings
+- Confirm incoming and outgoing server settings.
+- Check that the correct ports and security settings are configured.
+
+6. Test Webmail Access
+- Log in through the organisation's webmail portal.
+- If webmail works, the issue may be with the email application.
+
+7. Remove and Re-add Account
+- Remove the email account from the email application.
+- Add the account again using the correct credentials.
+
+---
+
+## Common Email Errors
+
+### "Password Incorrect"
+**Solution:**
+- Confirm username and password.
+- Reset password if required.
+- Check if multi-factor authentication is enabled.
+
+### "Mailbox Full"
+**Solution:**
+- Delete unnecessary emails.
+- Archive old messages.
+- Empty deleted items.
+
+### "Emails Not Syncing"
+**Solution:**
+- Check internet connection.
+- Restart the email application.
+- Update the application.
+- Remove and reconnect the account.
+
+---
+
+## Escalation
+
+Escalate to the IT Administrator if:
+- The account remains locked.
+- Server issues are suspected.
+- Multiple users experience the same problem.
+- Email services are unavailable.
+
+---
+
+## Tools Used
+- Microsoft Outlook
+- Microsoft 365 Admin Centre
+- Webmail
+- Jira Ticketing System
+
